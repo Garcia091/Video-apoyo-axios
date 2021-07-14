@@ -1,0 +1,16 @@
+{
+  "restaurante": [
+    {
+      "nombre": "papas",
+      "precio": "5000",
+      "categoria": "bebida",
+      "id": "UJJaSJ1"
+    },
+    {
+      "nombre": "Bandeja paisa",
+      "precio": "20000",
+      "categoria": "plato típico",
+      "id": "BrcW81W"
+    }
+  ]
+}
